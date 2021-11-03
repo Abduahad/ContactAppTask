@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <!-- Errors -->
+    <string name="error">Error</string>
+    <string name="error_message">Error. Please try again</string>
+    <string name="error_connection">Connection error. Please try again.</string>
+    <string name="error_connection_title">Cannot connect</string>
+    <string name="contact_already_exists">Contact already exists</string>>
+    <string name="error_connection_timeout">Can\'t connect to server. Please check your connection and try again</string>
+</resources>
